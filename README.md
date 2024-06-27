@@ -15,8 +15,8 @@
 * **E-scooters and e-bikes:** Ditch cars, hail a Yulu! These dockless rides, accessed through a slick app, are scattered across Bengaluru, Mumbai, Delhi, and more.
 * **Convenience reigns:** Find, unlock, and park your Yulu anywhere within designated zones. No docking dramas, just hop on and off!
 * **Green warriors:** Every Yulu ride cuts traffic congestion and carbon emissions, breathing new life into city air.
-
 **Impact beyond rides:**
+
 
 * **Over 25,000 Yulu scooters and millions of happy riders:** More than just a fun ride, Yulu is a movement.
 * **Boosting the local economy:** Yulu creates jobs, supports businesses, and revitalizes cityscapes.
@@ -90,8 +90,8 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 |4| Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog|
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python](https://github.com/KasiMuthuveerappan/Yulu_CaseStudy/blob/main/k%20-%20Analysis/k-yulu_Casestudy.ipynb)
-- You can access the complete Casestudy in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Yulu_CaseStudy/blob/main/k%20-%20Analysis/k-yulu_Casestudy_wm.pdf)
+- You can access the complete Case python file here - [Python](https://github.com/suchivats/Yulu_CaseStudy/blob/main/k%20-%20Analysis/k-yulu_Casestudy.ipynb)
+- You can access the complete Casestudy in pdf format here - [Report](https://github.com/suchivats/Yulu_CaseStudy/blob/main/k%20-%20Analysis/k-yulu_Casestudy_wm.pdf)
 
     
 -----
